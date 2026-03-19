@@ -12,6 +12,8 @@ This repository captures how the OpenClaw workspace is being shaped into a reusa
 | `docs/tooling.md` | Records API integrations, credentials setup steps, and data-access plans. |
 | `docs/roadmap.md` | Tracks the 13 best-practice capabilities (✅/❌) and what to implement next. |
 | `docs/changelog.md` | Timestamped log of major actions taken during setup. |
+| `docs/secrets-template.md` | Template for `.env` / secret files (no real keys committed). |
+| `tools/` | Helper scripts (e.g., `arxiv_search.py`, `tooling_smoke_test.sh`). |
 
 All paths referenced in the docs assume the OpenClaw workspace root at `~/.openclaw/workspace/` unless stated otherwise.
 

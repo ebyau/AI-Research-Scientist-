@@ -5,7 +5,7 @@ The table below tracks the 13 best-practice patterns identified for top-tier AI 
 | # | Capability | Status | Notes |
 | --- | --- | --- | --- |
 | 1 | Workflow-specialized agents | ✅ | Kadosh → Hard-guy → Bazalel, with SOULs and handoff contracts. |
-| 2 | Integrated tooling + data access | 🟡 | Brave Search live; academic APIs/datasets still pending. |
+| 2 | Integrated tooling + data access | ✅ | Brave + arXiv + Hugging Face wired; helper scripts + smoke test documented. |
 | 3 | Memory + provenance | ❌ | Need shared knowledge store + citation log. |
 | 4 | Human-in-the-loop checkpoints | ❌ | Define review gates (idea sign-off, experiment approval). |
 | 5 | Evaluation harnesses | ❌ | Plan/test templates for experiments still outstanding. |

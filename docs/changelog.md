@@ -9,4 +9,11 @@ Chronological record of notable steps while building the AI Research Scientist s
 - Verified `web_search` calls succeed via Brave.
 - Created GitHub repo `ebyau/AI-Research-Scientist-` and began seeding documentation (`README.md` + `docs/`).
 
+## 2026-03-19
+- Installed QMD (`npm install -g @tobilu/qmd`) and switched `memory.backend` to `qmd` with scoped access + update cadence.
+- Added `tools/arxiv_search.py` and `tools/tooling_smoke_test.sh` for arXiv queries and tooling verification; documented usage in `docs/tooling.md`.
+- Captured secrets guidance in `docs/secrets-template.md` and stored local tokens under `~/.openclaw/.env` / `~/.huggingface/token`.
+- Updated agent SOULs (toolboxes + Bazalel coding posture) and created `agents/bazalel/scripts/` for helper pipelines.
+- Pushed commit `9249f65` to GitHub with all documentation updates.
+
 (Extend this log whenever new capabilities or docs are added.)
