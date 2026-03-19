@@ -19,8 +19,8 @@ The table below tracks the 13 best-practice patterns identified for top-tier AI 
 | 13 | Resource-aware scheduling | ⏸️ | Deferred per current scope (no scheduler integration planned). |
 
 ## Immediate Priorities
-1. **Finish Capability #2** by adding Semantic Scholar (or equivalent) so Hard-guy has scholarly depth.
-2. **Introduce Capability #3** by designing a lightweight memory/provenance store (even markdown + embeddings to start).
-3. **Define Capability #5** by formalizing experiment templates and automated checks for Bazalel’s blueprints.
+1. **Capability #5** — formalize evaluation harnesses (templates, scripts, automated checks for Bazalel’s plans).
+2. **Capability #4** — define human-in-the-loop checkpoints (idea sign-off, experiment approval gates).
+3. **Capability #6** — add feedback/learning loops so agent outputs get scored and iteratively improved.
 
 Use this file to track progress as additional capabilities come online.
